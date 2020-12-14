@@ -16,6 +16,24 @@
       "message": "qti component ims component should be compatible",
       "revId": "69e40bc9cc81d9bb7deaf5b74f9675e66e4da547",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3cc9015d_76e61d70",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-12-14T22:55:26Z",
+      "side": 1,
+      "message": "ims apk*",
+      "parentUuid": "c63a7514_e8f1fa04",
+      "revId": "69e40bc9cc81d9bb7deaf5b74f9675e66e4da547",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
