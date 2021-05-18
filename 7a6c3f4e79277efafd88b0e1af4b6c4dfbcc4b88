@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2ce33132_f15506ce",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000013
+      },
+      "writtenOn": "2021-05-18T00:25:59Z",
+      "side": 1,
+      "message": "doesn\u0027t seem to break anything on ginkgo / qcom common telephony stack.",
+      "revId": "7a6c3f4e79277efafd88b0e1af4b6c4dfbcc4b88",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
