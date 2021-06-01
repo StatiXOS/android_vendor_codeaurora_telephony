@@ -16,6 +16,23 @@
       "message": "doesn\u0027t seem to break anything on ginkgo / qcom common telephony stack.",
       "revId": "7a6c3f4e79277efafd88b0e1af4b6c4dfbcc4b88",
       "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3191a12d_3f078cdf",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000047
+      },
+      "writtenOn": "2021-06-01T13:13:00Z",
+      "side": 1,
+      "message": "Works on OnePlus 7 (guacamoleb)",
+      "revId": "7a6c3f4e79277efafd88b0e1af4b6c4dfbcc4b88",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
     }
   ]
 }
